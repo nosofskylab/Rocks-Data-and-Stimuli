@@ -1,0 +1,40 @@
+
+In the 360-rock library, the specific rock number associated with the token that represented each subtype in the Rocks-30 experiment is provided below:
+
+ 1   6 Andesite 6
+ 2  14 Basalt 2
+ 3  34 Diorite 10
+ 4  39 Gabbro 3
+ 5  59 Granite 11
+ 6  69 Obsidian 9
+ 7  73 Pegmatite 1
+ 8  95 Peridotite 11
+ 9 102 Pumice 6
+10 119 Rhyolite 11
+
+11 127 Amphibolite 7
+12 144 Anthracite 12
+13 151 Gness 7
+14 164 Hornfels 8
+15 172 Marble 4
+16 188 Migmatite 8
+17 201 Phyllite 9
+18 213 Quartzite 9
+19 218 Schist 2
+20 237 Slate 9
+
+21 250 Bituminous Coal 10
+22 263 Breccia 11
+23 267 Chert 3
+24 284 Conglomerate 8
+25 300 Dolomite 12
+26 309 Micrite 9
+27 314 Rock Gypsum 2
+28 336 Rock Salt 12
+29 348 Sandstone 12
+30 352 Shale 4
+
+
+In each row, Column 1 gives the subtype number; Column 2 the specific number of the rock that represented that subtype in the Rocks-30 similarity-judgment experiment;  Column 3 the subtype name; and Column 4 the token number of the specific rock within its subtype in the rocks library.
+
+

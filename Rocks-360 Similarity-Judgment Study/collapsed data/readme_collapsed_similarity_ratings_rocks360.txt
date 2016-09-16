@@ -1,0 +1,5 @@
+
+The file "collapsed_similarity_ratings_rocks360.txt" provides the "collapsed" similarity judgment matrix computed from the individual-subject similarity ratings in the Rocks-360 experiment.  The entry in cell i-j is the averaged similarity rating for all trials in which subjects rated the similarity between a token from subtype i and a token from subtype j.  (The analysis did not distinguish between the ordering, i.e., the left-right placement, of i and j, so the matrix is symmetric;  that is, the entry in cell j-i is the same as the entry in cell i-j.)  The first entry in each row gives the subtype number (i) for that row; the remaining 30 entries in row i give the averaged similarity ratings between subtype i and each of the 30 subtypes. The matrix includes the diagonal entries (cells i-i) in which subjects rated the similarity between distinct tokens belonging to the same subtype i.
+
+Because each subject provided a single similarity judgment between tokens belonging to each pair of subtypes i and j, and there were 253 subjects included in the analysis, each cell entry is based on 253 observations.  
+   
